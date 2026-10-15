@@ -19,7 +19,7 @@ public class Basic_calc {
         int r1 = x + y;
         int r2 =  x - y;
         int r3 = x*y;
-        int r4 = Math.round(x / y);
+        int r4 = Math.round(x/y);
         //Format our inputs
 
         System.out.println("Possible Calculations:" );
